@@ -1,1 +1,0 @@
-main('ultrawide monitor')
