@@ -1,0 +1,1 @@
+main('ultrawide monitor')
